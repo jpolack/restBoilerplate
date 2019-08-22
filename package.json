@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/jpolack/restBoilerplate#readme",
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "babel-loader": "^8.0.6",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
     "@types/jest": "^24.0.18",
     "babel-polyfill": "^6.26.0",
     "copy-webpack-plugin": "^5.0.4",
