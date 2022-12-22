@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jpolack/restBoilerplate#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
